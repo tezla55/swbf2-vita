@@ -1,0 +1,24 @@
+# Everything we may not (or need not) publish: game data, reference material,
+# private notes, logs, the box-art icon, Sony's shader compiler, the fonts.
+/_local/
+
+# Build output
+/build/
+/build-*/
+*.vpk
+*.self
+*.velf
+*.elf
+*.psp2dmp
+__pycache__/
+*.pyc
+*.log
+
+# FFmpeg: fetched and built by scripts/build_ffmpeg_bink.sh
+/third_party/ffmpeg-*/
+
+# Windows download markers (WSL)
+*:Zone.Identifier
+
+# tools/extract_phase.py backups
+/src/main.cpp.before_*

@@ -1,0 +1,4 @@
+[submodule "libs/LibSWBF2"]
+	path = libs/LibSWBF2
+	url = https://github.com/tezla55/LibSWBF2.git
+	branch = swbf2-vita
