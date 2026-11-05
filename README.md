@@ -45,8 +45,6 @@ effects, incomplete mechanics, and frame-rate dips on the biggest outdoor maps.
 Space battles, heroes, campaign, Galactic Conquest, Hunt, CTF, Assault, multiplayer and save data are **not** included.
 Conquest is fully playable, with the issues listed below. Heroes are disabled by default; they can be enabled as an experimental feature in **Pause → Debug Options → Heroes** (they are very broken and intentionally left incomplete).
 
-Project is currently closed source, and will be made open source with the 1.0 release (TBD).
-
 ## Screenshots
 
 ![Geonosis](images/Geonosis.jpg)
