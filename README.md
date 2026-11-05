@@ -15,7 +15,7 @@ effects, incomplete mechanics, and frame-rate dips on the biggest outdoor maps.
 
 - A PS Vita (or PS TV) with **HENkaku/Ensō** and **VitaShell**.
 - **Your own PC copy of Star Wars Battlefront II (2005)** (Steam or GOG).
-- Free space on `ux0:` for the PC game's `GameData` folder (several 10+ GB).
+- Free space on `ux0:` for the PC game's `GameData` folder.
 
 ## Install
 
