@@ -55,7 +55,7 @@ Project is currently closed source, and will be made open source with the 1.0 re
 
 ![Hoth](images/Hoth.jpg)
 
-*Naboo*
+*Hoth*
 
 ## Gameplay Demo
 
